@@ -1,5 +1,5 @@
 // Set up flaps ////////////////////////////////////////////
-speed = .4; // seconds
+speed = .5; // seconds
 currentTime = getCurrentTime().toUpperCase().split("");
 
 amountOfFlaps = 8; // Number of flaps for displaying time (HH:MM:SS)
